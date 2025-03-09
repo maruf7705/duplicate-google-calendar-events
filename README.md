@@ -1,6 +1,6 @@
 # Google Calendar Event Duplicator
 
-![Untitled-2](https://github.com/user-attachments/assets/2afbffb0-3344-4071-a9d5-54c19abe3829)
+[![Untitled-2](https://github.com/user-attachments/assets/2afbffb0-3344-4071-a9d5-54c19abe3829)](https://script.google.com/d/1ERy0f-0b8beg3wLafS_EGW8npuik-NCVk5X0m93Py8qQMFCWhN2P1XSD/edit?usp=sharing)
 
 This project is a Google Apps Script that allows you to duplicate events from one date to another in your Google Calendar. It also preserves event colors during the duplication process.
 
